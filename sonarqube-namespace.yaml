@@ -1,0 +1,7 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: sonarqube2
+  labels:
+    name: sonarqube2
+    namespace: sonarqube2
